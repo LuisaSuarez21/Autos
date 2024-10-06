@@ -20,4 +20,7 @@ general del proyecto.
 1.- Clona este repositorio
 '''bash
 git clone https://github.com/LuisaSuarez21/Autos
+2.- Puedes ver la aplicación en vivo en la siguiente 
+dirección URL:
+https://autos-y5bt.onrender.com
 
