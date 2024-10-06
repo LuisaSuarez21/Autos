@@ -16,5 +16,8 @@ de verificación para generar diferentes tipos de gráficos.
 - "README.md": Este archivo, que proporciona una visión 
 general del proyecto.
 
-##Instalación
+## Instalación
+1.- Clona este repositorio
+'''bash
+git clone https://github.com/LuisaSuarez21/Autos
 
